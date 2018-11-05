@@ -32,5 +32,5 @@ The project is worth a total of 600 points. *Functionality* and *complexity* of 
 
 # Project Report
 
-Fill out this template in the README of your own fork of the assignment repository.
+Fill out this template in the README of your own fork of the assignment repository. Put any supporting materials (diagrams, schematics, pictures, etc) in the [assets](assets) folder. You can reference them from this report. For example, [todo file](assets/todo.md).
 
