@@ -6,6 +6,12 @@ Term project for students in the CPE 1040 course at MSUD, Fall 2018.
 
 Design and implement some application of the [micro:bit](https://microbit.org/) educational computer. It can be a new design of your own or an already existing design from the Web.
 
+### Language requirement
+
+The implementation has to be in [MicroPython](https://microbit-micropython.readthedocs.io/en/latest/) (the version of Python that works on the micro:bit). 
+
+**Note:** It is perfectly acceptable to take a project implemented in JavaScript/Blocks and rewrite it in MicroPython.
+
 ## Submission
 
 ### 1. Github
@@ -26,11 +32,13 @@ You can collaborate with one or two team mates on the design, implementation, an
 
 Write the project report in your README using the template provided below. 
 
-**NOTE:** Projects without reports will receive **0 points** for the whole project.
+**Note:** Projects without reports will receive **0 points** for the whole project.
 
 ### 5. Project demo
 
-The project has to be demonstrated by the team in the lab period on **Wed, Nov 28**. Presentation slides are *optional* but will be noted in the evaluation of your submission.
+The project has to be demonstrated by the team in the lab period on **Wed, Nov 28**. Presentation slides are *optional* but will be noted in the evaluation of your submission. If you can't make this date, you can demo at any *earlier* date, but no later dates.
+
+**Note:** The demo is not optional. If a project is not demonstrated, the grade will be at the discretion of the instructor.
 
 ## Grading
 
