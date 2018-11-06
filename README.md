@@ -49,7 +49,7 @@ The project is worth a total of 600 points. Breakdown:
 
 Fill out this template in place in the README of your own fork of the assignment repository. Put any supporting materials (diagrams, schematics, pictures, presentation slides, etc) in the [assets](assets) folder. You can reference them from this report. For example, [todo file](assets/todo.md). Use this [Markdown cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to format the report.
 
-**Acknowledgement:** Adopted from [Bob Yusko](ryusko1@msudenver.edu).
+**Acknowledgement:** Adopted from [Bob Yusko](mailto:ryusko1@msudenver.edu).
 
 ## 1. Project Title
 
