@@ -26,7 +26,7 @@ You can collaborate with one or two team mates on the design, implementation, an
 
 **Sun, Dec 2, 2018, by 23:59**
 
-**Note:** You can submit your URL at any time before the deadline on Canvas, but only your latest commit on Github before the deadline will be evaluated.
+**Note:** You can submit your URL at any time before the deadline on Canvas. Only your latest commit on Github earlier than the deadline will be evaluated.
 
 ### 4. Project report
 
@@ -38,7 +38,7 @@ Write the project report in your README using the template provided below.
 
 The project has to be demonstrated by the team in the lab period on **Wed, Nov 28**. Presentation slides are *optional* but will be noted in the evaluation of your submission. If you can't make this date, you can demo at any *earlier* date, but no later dates.
 
-**Note:** The demo is not optional. If a project is not demonstrated, the grade will be at the discretion of the instructor.
+**Note:** The demo is **not optional**. If a project is not demonstrated, the grade will be at the discretion of the instructor.
 
 ## Grading
 
@@ -77,7 +77,7 @@ Fill out this template in place in the README of your own fork of the assignment
 
 ## 5. Design
 
-*Describe your design briefly and reference any supporting materials in the [assets](assets) forlder.*
+*Describe your design briefly and reference any supporting materials in the [assets](assets) folder. Talk about input, output, processing, and storage (aka memory) in your design.*
 
 ## 6. Development
 
@@ -89,7 +89,7 @@ Fill out this template in place in the README of your own fork of the assignment
 
 ## 8. Demo
 
-*Briefly record the results of the in-class demo.*
+*Briefly report on the results of the in-class demo.*
 
 ## 9. Summary
 
